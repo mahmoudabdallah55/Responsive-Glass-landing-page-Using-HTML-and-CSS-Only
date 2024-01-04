@@ -137,8 +137,3 @@ nav .navbar li a {
     }
 }
 
-@media(max-width:360) {
-    .image img {
-        width: 10px;
-    }
-}
